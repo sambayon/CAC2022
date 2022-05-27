@@ -1,0 +1,9 @@
+/*Hoja de estilos*/
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@300&display=swap');
+body {
+    background-color: gray ;
+}
+h1 {
+    color: black;
+    margin-left: 10px;
+}
